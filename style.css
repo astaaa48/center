@@ -88,7 +88,7 @@ nav ul li a:hover {
 
 
 .hero {
-    background: linear-gradient(rgba(255, 255, 255, 0), rgba(255,255,255,0.8)), url('/hero.svg');
+    background: linear-gradient(rgba(255, 255, 255, 0), rgba(255,255,255,0.8)), url('hero.svg');
     background-size: cover;
     background-position: center;
     padding: 4rem 0;

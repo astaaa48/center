@@ -88,7 +88,7 @@ nav ul li a:hover {
 
 
 .hero {
-    background: linear-gradient(rgba(255, 255, 255, 0), rgba(255,255,255,0.8)), url('hero.svg');
+    background: linear-gradient(rgba(255, 255, 255, 0), rgba(255,255,255,0.8)), url('/center/hero.svg');
     background-size: cover;
     background-position: center;
     padding: 4rem 0;
@@ -323,7 +323,7 @@ font-size: 2.5rem;
 
 .cta {
   
-     background: linear-gradient(rgb(255, 255, 255), rgba(252, 252, 252, 0)), url('/cta.svg');
+     background: linear-gradient(rgb(255, 255, 255), rgba(252, 252, 252, 0)), url('/center/cta.svg');
     padding: 4rem 0;
      background-size: cover;
     background-position: center;
